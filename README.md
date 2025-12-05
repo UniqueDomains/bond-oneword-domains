@@ -23,7 +23,7 @@ If you want to search & filters the complete database of [.BOND one word domains
 | --------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | abactinal.bond  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.bond      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.bond  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.bond  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.bond    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.bond     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.bond   | available | 54       | 1%     | 8      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.BOND one word domains
 | abaxial.bond    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.bond   | available | 50       | 1%     | 8      |           |         |         |
 | abdicable.bond  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.bond  | premium   | 82       | 1%     | 9      |           |         |         |
+| abdominal.bond  | premium   | 82       | 5%     | 9      |           |         |         |
 | abdominous.bond | available | 56       | 1%     | 10     |           |         |         |
 | abducens.bond   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.bond   | available | 68       | 1%     | 8      |           |         |         |
@@ -40,7 +40,7 @@ If you want to search & filters the complete database of [.BOND one word domains
 | aberdonian.bond | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.bond   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.bond    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.bond  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.bond  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.bond    | available | 106      | 5%     | 7      |           |         |         |
 | abient.bond     | available | 54       | 1%     | 6      |           |         |         |
 | abit.bond       | available | 66       | 16%    | 5      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BOND one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
