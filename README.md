@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .BOND one-word domains still available to buy.
 
-This dataset contains 3,901 .BOND one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,062 .BOND one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.BOND one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bond-oneword-domains&utm_content=description.top) (3,901) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.BOND one word domains
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/bond-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/bond-oneword-domains/blob/main/bond.csv"><b>⬇️ CSV (3.9K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/bond-oneword-domains/blob/main/bond.json"><b>⬇️ JSON (3.9K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/bond-oneword-domains/blob/main/bond.csv"><b>⬇️ CSV (4.06K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/bond-oneword-domains/blob/main/bond.json"><b>⬇️ JSON (4.06K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bond-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.9K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -41,21 +41,21 @@ If you want to search & filters the complete database of [.BOND one word domains
 | aberrant.bond   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.bond    | available | 56       | 2%     | 7      |           |         |         |
 | abhorrent.bond  | available | 54       | 3%     | 9      |           |         |         |
+| abide.bond      | available | 94       | 15%    | 5      |           |         |         |
 | abiding.bond    | available | 106      | 5%     | 7      |           |         |         |
 | abient.bond     | available | 54       | 1%     | 6      |           |         |         |
-| abit.bond       | premium   | 66       | 16%    | 5      |           |         |         |
+| abit.bond       | premium   | 66       | 12%    | 5      |           |         |         |
 | abject.bond     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.bond     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.bond  | available | 78       | 1%     | 9      |           |         |         |
 | abkhaz.bond     | available | 82       | 2%     | 6      |           |         |         |
 | abkhazian.bond  | available | 78       | 1%     | 9      |           |         |         |
 | ablated.bond    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.bond   | available | 68       | 3%     | 8      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/bond-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/bond-oneword-domains/blob/main/bond.csv"><b>⬇️ CSV (3.9K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/bond-oneword-domains/blob/main/bond.json"><b>⬇️ JSON (3.9K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/bond-oneword-domains/blob/main/bond.csv"><b>⬇️ CSV (4.06K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/bond-oneword-domains/blob/main/bond.json"><b>⬇️ JSON (4.06K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=bond-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.9K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.BOND one word domains
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
