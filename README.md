@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .bond one-word domains from Unique
 
 **Public extract:** 7,864 rows · **Live catalog:** 7,864 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/bond`  
 **Best for:** founders, investors, studios
 
@@ -73,7 +73,7 @@ print(df.head())
 | adaptive.bond   | available | $18.88    | —             | 76             | 32     | 8      | namecheap            |
 | kick.bond       | resell    | —         | —             | 98             | 80     | 4      | Dominet (HK) Limited |
 | nationwide.bond | premium   | $69.38    | $92.50        | 76             | 66     | 10     | name.com             |
-| after.bond      | available | $18.88    | —             | 100            | 28     | 5      | namecheap            |
+| after.bond      | available | $18.88    | —             | 100            | 27     | 5      | namecheap            |
 | mint.bond       | resell    | —         | —             | 72             | 78     | 4      | Dominet (HK) Limited |
 | easy.bond       | premium   | $552.19   | $736.25       | 128            | 62     | 4      | name.com             |
 | curative.bond   | available | $18.88    | —             | 92             | 27     | 8      | namecheap            |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
