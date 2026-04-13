@@ -65,25 +65,25 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
 | bahamas.bond    | available | $2.49     | —             | 70             | 98     | 7      | name.com             |
-| caring.bond     | resell    | —         | —             | 102            | 98     | 6      | Namecheap            |
+| mac.bond        | resell    | —         | —             | 94             | 82     | 3      | Dominet (HK) Limited |
 | taiwan.bond     | premium   | $188.16   | $376.32       | 66             | 93     | 6      | namesilo             |
 | conscious.bond  | available | $18.88    | —             | 89             | 38     | 9      | namecheap            |
-| mac.bond        | resell    | —         | —             | 94             | 82     | 3      | Dominet (HK) Limited |
+| kick.bond       | resell    | —         | —             | 98             | 80     | 4      | Dominet (HK) Limited |
 | converse.bond   | premium   | $552.19   | $736.25       | 64             | 73     | 8      | name.com             |
 | adaptive.bond   | available | $18.88    | —             | 76             | 32     | 8      | namecheap            |
-| kick.bond       | resell    | —         | —             | 98             | 80     | 4      | Dominet (HK) Limited |
+| mint.bond       | resell    | —         | —             | 72             | 78     | 4      | Dominet (HK) Limited |
 | nationwide.bond | premium   | $69.38    | $92.50        | 76             | 66     | 10     | name.com             |
 | after.bond      | available | $18.88    | —             | 100            | 27     | 5      | namecheap            |
-| mint.bond       | resell    | —         | —             | 72             | 78     | 4      | Dominet (HK) Limited |
+| box.bond        | resell    | —         | —             | 68             | 78     | 3      | Dominet (HK) Limited |
 | easy.bond       | premium   | $552.19   | $736.25       | 128            | 62     | 4      | name.com             |
 | curative.bond   | available | $18.88    | —             | 92             | 27     | 8      | namecheap            |
-| box.bond        | resell    | —         | —             | 68             | 78     | 3      | Dominet (HK) Limited |
+| flow.bond       | resell    | —         | —             | 96             | 67     | 4      | Dominet (HK) Limited |
 | power.bond      | premium   | $95.55    | $382.20       | 98             | 62     | 5      | namecheap            |
 | adept.bond      | available | $18.88    | —             | 92             | 26     | 5      | namecheap            |
-| flow.bond       | resell    | —         | —             | 96             | 67     | 4      | Dominet (HK) Limited |
+| flash.bond      | resell    | —         | —             | 64             | 67     | 5      | Dominet (HK) Limited |
 | enterprise.bond | premium   | $95.55    | $382.20       | 68             | 61     | 10     | namecheap            |
 | complex.bond    | available | $18.88    | —             | 111            | 25     | 7      | namecheap            |
-| flash.bond      | resell    | —         | —             | 64             | 67     | 5      | Dominet (HK) Limited |
+| now.bond        | resell    | —         | —             | 78             | 66     | 3      | Dominet (HK) Limited |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
