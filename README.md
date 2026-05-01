@@ -1,10 +1,10 @@
-# Available .BOND One-Word Domains (10,479)
+# Available .BOND One-Word Domains (10,665)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C479%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C665%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bond one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,479 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,665 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,479 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,665 domains
 
-**Last updated:** 2026-04-27  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/bond`  
 **Best for:** founders, investors, studios
 
@@ -68,6 +68,7 @@ print(df.head())
 | units.bond         | resell    | —         | —             | 56             | 16     | 5      | Dominet (HK) Limited |
 | winners.bond       | premium   | $188.16   | $376.32       | 60             | 81     | 7      | namesilo             |
 | backyard.bond      | available | $2.49     | —             | 80             | 27     | 9      | name.com             |
+| OKs.bond           | resell    | —         | —             | 68             | 13     | 3      | Dominet (HK) Limited |
 | RedSox.bond        | premium   | $412.30   | $824.60       | 72             | 60     | 7      | namecheap            |
 | inhouse.bond       | available | $2.49     | —             | 70             | 23     | 8      | name.com             |
 | keepthechange.bond | premium   | $205.80   | $411.60       | 46             | 59     | 15     | namecheap            |
@@ -82,8 +83,7 @@ print(df.head())
 | deeper.bond        | available | $2.49     | —             | 56             | 19     | 6      | name.com             |
 | trends.bond        | premium   | $205.80   | $411.60       | 60             | 32     | 6      | namecheap            |
 | techsupport.bond   | available | $2.49     | —             | 76             | 18     | 12     | name.com             |
-| rewards.bond       | premium   | $188.16   | $376.32       | 62             | 30     | 7      | namesilo             |
-| adventures.bond    | available | $2.49     | —             | 64             | 18     | 10     | name.com             |
+| videos.bond        | premium   | $412.30   | $824.60       | 52             | 30     | 6      | namecheap            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,479 live domains                              |
+| 1,000-row public sample | 10,665 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
