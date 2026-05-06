@@ -1,10 +1,10 @@
-# Available .BOND One-Word Domains (10,665)
+# Available .BOND One-Word Domains (10,666)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C665%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C666%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .bond one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,665 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,666 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,665 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,666 domains · **Median ask:** $34.89 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/bond`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| barup.bond         | available | $2.49     | —             | 82             | 2      | 6      | name.com             |
+| geton.bond         | available | $2.49     | —             | 82             | 10     | 6      | name.com             |
+| dogsit.bond        | available | $2.49     | —             | 96             | 2      | 6      | name.com             |
+| toneup.bond        | available | $2.49     | —             | 80             | 5      | 7      | name.com             |
+| dogsick.bond       | available | $2.49     | —             | 90             | 1      | 7      | name.com             |
+| leaveon.bond       | available | $2.49     | —             | 80             | 1      | 8      | name.com             |
+| messages.bond      | available | $1.88     | $14.95        | 80             | 16     | 8      | namesilo             |
+| headout.bond       | available | $2.49     | —             | 82             | 6      | 8      | name.com             |
+| keepfit.bond       | available | $2.49     | —             | 86             | 9      | 8      | name.com             |
+| backyard.bond      | available | $2.49     | —             | 80             | 27     | 9      | name.com             |
+| bedframe.bond      | available | $2.49     | —             | 80             | 3      | 9      | name.com             |
 | donuts.bond        | available | $2.49     | —             | 54             | 62     | 6      | name.com             |
 | units.bond         | resell    | —         | —             | 56             | 16     | 5      | Dominet (HK) Limited |
 | winners.bond       | premium   | $188.16   | $376.32       | 60             | 81     | 7      | namesilo             |
-| backyard.bond      | available | $2.49     | —             | 80             | 27     | 9      | name.com             |
 | OKs.bond           | resell    | —         | —             | 68             | 13     | 3      | Dominet (HK) Limited |
 | RedSox.bond        | premium   | $412.30   | $824.60       | 72             | 60     | 7      | namecheap            |
 | inhouse.bond       | available | $2.49     | —             | 70             | 23     | 8      | name.com             |
 | keepthechange.bond | premium   | $205.80   | $411.60       | 46             | 59     | 15     | namecheap            |
 | blogs.bond         | available | $1.88     | $14.95        | 52             | 21     | 5      | namesilo             |
 | russia.bond        | premium   | $412.30   | $824.60       | 80             | 42     | 6      | namecheap            |
-| generations.bond   | available | $2.49     | —             | 56             | 20     | 11     | name.com             |
-| stories.bond       | premium   | $205.80   | $411.60       | 58             | 36     | 7      | namecheap            |
-| snaps.bond         | available | $2.49     | —             | 52             | 20     | 5      | name.com             |
-| spectra.bond       | premium   | $412.30   | $824.60       | 62             | 34     | 7      | namecheap            |
-| rivals.bond        | available | $1.88     | $14.95        | 48             | 20     | 6      | namesilo             |
-| teams.bond         | premium   | $205.80   | $411.60       | 62             | 32     | 5      | namecheap            |
-| deeper.bond        | available | $2.49     | —             | 56             | 19     | 6      | name.com             |
-| trends.bond        | premium   | $205.80   | $411.60       | 60             | 32     | 6      | namecheap            |
-| techsupport.bond   | available | $2.49     | —             | 76             | 18     | 12     | name.com             |
-| videos.bond        | premium   | $412.30   | $824.60       | 52             | 30     | 6      | namecheap            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,665 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 10,666 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely made up of one-word .bond domains. The naming style ranges from direct dictionary cues to short, action-oriented words and softer brandable terms, as seen in finals.bond, geton.bond, playon.bond, and edamame.bond. For founders, the key question is whether the word stays memorable and credible once paired with .bond. For investors, the main test is whether the keyword has enough clarity or commercial relevance to support resale interest. Median ask is 34.89, which keeps attention on word quality, extension fit, and renewal discipline rather than headline price alone.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- All results use the .bond extension
+- One-word mix of literal and brandable terms
+- Median ask across this set is 34.89
+- Check word clarity, fit, and renewal risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
