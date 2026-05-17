@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bond one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,668 domains · **Median ask:** $35.21 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/bond`  
 **Best for:** founders, investors, studios
 
@@ -72,9 +72,9 @@ print(df.head())
 | leaveon.bond       | available | $2.49     | —             | 80             | 1      | 8      | name.com             |
 | messages.bond      | available | $1.88     | $14.95        | 80             | 16     | 8      | namesilo             |
 | headout.bond       | available | $2.49     | —             | 82             | 6      | 8      | name.com             |
-| keepfit.bond       | available | $2.49     | —             | 86             | 9      | 8      | name.com             |
 | backyard.bond      | available | $2.49     | —             | 80             | 27     | 9      | name.com             |
 | bedframe.bond      | available | $2.49     | —             | 80             | 3      | 9      | name.com             |
+| makenews.bond      | available | $2.49     | —             | 80             | 1      | 9      | name.com             |
 | donuts.bond        | available | $2.49     | —             | 54             | 62     | 6      | name.com             |
 | units.bond         | resell    | —         | —             | 56             | 16     | 5      | Dominet (HK) Limited |
 | winners.bond       | premium   | $188.16   | $376.32       | 60             | 81     | 7      | namesilo             |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
