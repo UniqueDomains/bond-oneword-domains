@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .bond one-word domains from
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **10,668 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,668 domains · **Median ask:** $35.21 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,668 domains · **Median ask:** $46.14 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/bond`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| barup.bond         | available | $2.49     | —             | 82             | 2      | 6      | name.com             |
-| geton.bond         | available | $2.49     | —             | 82             | 10     | 6      | name.com             |
-| dogsit.bond        | available | $2.49     | —             | 96             | 2      | 6      | name.com             |
-| toneup.bond        | available | $2.49     | —             | 80             | 5      | 7      | name.com             |
-| dogsick.bond       | available | $2.49     | —             | 90             | 1      | 7      | name.com             |
-| leaveon.bond       | available | $2.49     | —             | 80             | 1      | 8      | name.com             |
-| messages.bond      | available | $1.88     | $14.95        | 80             | 16     | 8      | namesilo             |
-| headout.bond       | available | $2.49     | —             | 82             | 6      | 8      | name.com             |
-| backyard.bond      | available | $2.49     | —             | 80             | 27     | 9      | name.com             |
-| bedframe.bond      | available | $2.49     | —             | 80             | 3      | 9      | name.com             |
-| makenews.bond      | available | $2.49     | —             | 80             | 1      | 9      | name.com             |
-| donuts.bond        | available | $2.49     | —             | 54             | 62     | 6      | name.com             |
-| units.bond         | resell    | —         | —             | 56             | 16     | 5      | Dominet (HK) Limited |
-| winners.bond       | premium   | $188.16   | $376.32       | 60             | 81     | 7      | namesilo             |
-| OKs.bond           | resell    | —         | —             | 68             | 13     | 3      | Dominet (HK) Limited |
-| RedSox.bond        | premium   | $412.30   | $824.60       | 72             | 60     | 7      | namecheap            |
-| blogs.bond         | available | $1.88     | $14.95        | 52             | 21     | 5      | namesilo             |
-| keepthechange.bond | premium   | $205.80   | $411.60       | 46             | 59     | 15     | namecheap            |
-| generations.bond   | available | $2.49     | —             | 56             | 20     | 11     | name.com             |
-| russia.bond        | premium   | $412.30   | $824.60       | 80             | 45     | 6      | namecheap            |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| checklist.bond    | premium   | $43.66    | $88.06        | 88             | 23     | 9      | namesilo             |
+| easy.bond         | premium   | $552.19   | $736.25       | 128            | 62     | 4      | name.com             |
+| key.bond          | resell    | —         | —             | 80             | 42     | 3      | Dominet (HK) Limited |
+| lyrics.bond       | premium   | $384      | $768          | 90             | 20     | 6      | namesilo             |
+| acute.bond        | available | $1.88     | $14.95        | 112            | 12     | 5      | namesilo             |
+| grin.bond         | resell    | —         | —             | 102            | 25     | 4      | Dominet (HK) Limited |
+| headup.bond       | available | $2.49     | —             | 80             | 5      | 7      | name.com             |
+| ben.bond          | premium   | $87.47    | $188.16       | 84             | 49     | 3      | namesilo             |
+| yearly.bond       | premium   | $188.16   | $376.32       | 104            | 8      | 6      | namesilo             |
+| consensus.bond    | available | $1.88     | $14.95        | 92             | 26     | 9      | namesilo             |
+| airplane.bond     | premium   | $43.66    | $88.06        | 91             | 15     | 8      | namesilo             |
+| country.bond      | premium   | $188.16   | $376.32       | 92             | 28     | 7      | namesilo             |
+| souse.bond        | premium   | —         | —             | 84             | 3      | 5      | —                    |
+| intensive.bond    | premium   | $43.66    | $88.06        | 82             | 6      | 9      | namesilo             |
+| fold.bond         | premium   | $21.83    | $43.66        | 96             | 21     | 4      | namesilo             |
+| bouncing.bond     | available | $1.88     | $14.95        | 90             | 6      | 8      | namesilo             |
+| fatigue.bond      | available | $1.88     | $14.95        | 88             | 10     | 7      | namesilo             |
+| freespirit.bond   | premium   | $43.66    | $88.06        | 82             | 16     | 11     | namesilo             |
+| IndianaJones.bond | available | $2.49     | —             | 80             | 5      | 13     | name.com             |
+| conduction.bond   | available | $1.88     | $14.95        | 84             | 4      | 10     | namesilo             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
