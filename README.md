@@ -1,10 +1,10 @@
-# Available .BOND One-Word Domains (10,668)
+# Available .BOND One-Word Domains (10,672)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C668%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C672%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .bond one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,668 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,672 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,668 domains · **Median ask:** $46.14 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 10,672 domains · **Median ask:** $43.32 · **High-demand under $2,500:** 42
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/bond`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/bond`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BOND one-word domain 
 
 ### Files
 
-- `bond.csv` — public CSV extract (1,000 rows)
-- `bond.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `bond.csv`, public CSV extract (1,000 rows)
+- `bond.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| checklist.bond    | premium   | $43.66    | $88.06        | 88             | 23     | 9      | namesilo             |
-| easy.bond         | premium   | $552.19   | $736.25       | 128            | 62     | 4      | name.com             |
-| key.bond          | resell    | —         | —             | 80             | 42     | 3      | Dominet (HK) Limited |
-| lyrics.bond       | premium   | $384      | $768          | 90             | 20     | 6      | namesilo             |
-| acute.bond        | available | $1.88     | $14.95        | 112            | 12     | 5      | namesilo             |
-| grin.bond         | resell    | —         | —             | 102            | 25     | 4      | Dominet (HK) Limited |
-| headup.bond       | available | $2.49     | —             | 80             | 5      | 7      | name.com             |
-| ben.bond          | premium   | $87.47    | $188.16       | 84             | 49     | 3      | namesilo             |
-| yearly.bond       | premium   | $188.16   | $376.32       | 104            | 8      | 6      | namesilo             |
-| consensus.bond    | available | $1.88     | $14.95        | 92             | 26     | 9      | namesilo             |
-| airplane.bond     | premium   | $43.66    | $88.06        | 91             | 15     | 8      | namesilo             |
-| country.bond      | premium   | $188.16   | $376.32       | 92             | 28     | 7      | namesilo             |
-| souse.bond        | premium   | —         | —             | 84             | 3      | 5      | —                    |
-| intensive.bond    | premium   | $43.66    | $88.06        | 82             | 6      | 9      | namesilo             |
-| fold.bond         | premium   | $21.83    | $43.66        | 96             | 21     | 4      | namesilo             |
-| bouncing.bond     | available | $1.88     | $14.95        | 90             | 6      | 8      | namesilo             |
-| fatigue.bond      | available | $1.88     | $14.95        | 88             | 10     | 7      | namesilo             |
-| freespirit.bond   | premium   | $43.66    | $88.06        | 82             | 16     | 11     | namesilo             |
-| IndianaJones.bond | available | $2.49     | —             | 80             | 5      | 13     | name.com             |
-| conduction.bond   | available | $1.88     | $14.95        | 84             | 4      | 10     | namesilo             |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| acerb.bond | available | $2        | $25.98        | low            | low    | 5      | namecheap            |
+| bio.bond   | resell    | —         | —             | high           | medium | 3      | Dominet (HK) Limited |
+| apt.bond   | premium   | $102.90   | $205.80       | high           | low    | 3      | namecheap            |
+| acute.bond | available | $1.88     | $14.95        | high           | low    | 5      | namesilo             |
+| bot.bond   | resell    | —         | —             | high           | medium | 3      | Dominet (HK) Limited |
+| bce.bond   | premium   | $376.96   | $753.92       | medium         | low    | 3      | namesilo             |
+| afoot.bond | available | $2        | $25.98        | low            | low    | 5      | namecheap            |
+| cut.bond   | resell    | —         | —             | high           | low    | 3      | Dominet (HK) Limited |
+| ben.bond   | premium   | $87.47    | $188.16       | high           | medium | 3      | namesilo             |
+| amuse.bond | available | $1.88     | $14.95        | high           | low    | 5      | namesilo             |
+| ivy.bond   | resell    | —         | —             | high           | low    | 3      | Dominet (HK) Limited |
+| cxx.bond   | premium   | $68.43    | $147.20       | low            | low    | 3      | namesilo             |
+| axial.bond | available | $1.88     | $14.95        | high           | low    | 5      | namesilo             |
+| key.bond   | resell    | —         | —             | high           | medium | 3      | Dominet (HK) Limited |
+| DJI.bond   | premium   | $376.96   | $753.92       | high           | low    | 3      | namesilo             |
+| chore.bond | available | $1.88     | $14.95        | high           | low    | 5      | namesilo             |
+| map.bond   | resell    | —         | —             | high           | medium | 3      | Dominet (HK) Limited |
+| far.bond   | premium   | $376.96   | $753.92       | high           | low    | 3      | namesilo             |
+| clxxv.bond | available | $2        | $25.98        | low            | low    | 5      | namecheap            |
+| opt.bond   | resell    | —         | —             | medium         | low    | 3      | Dominet (HK) Limited |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 10,668 live domains                        |
+| 1,000-row public sample | 10,672 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 42 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .bond domains. The naming style ranges from direct dictionary cues to short, action-oriented words and softer brandable terms, as seen in finals.bond, geton.bond, playon.bond, and edamame.bond. For founders, the key question is whether the word stays memorable and credible once paired with .bond. For investors, the main test is whether the keyword has enough clarity or commercial relevance to support resale interest. Median ask is 34.89, which keeps attention on word quality, extension fit, and renewal discipline rather than headline price alone.
+This list of .bond domains covers 10,672 one-word names, from everyday nouns like watches.bond and worm.bond to playful compounds like cuddleup.bond and coffeebush.bond. The median ask sits near $43, and the vast majority price under $500, making this an accessible entry point for founders shortlisting a brandable name and for investors scanning volume at low cost. A smaller share carries premium or resale pricing, so comparing ask price against renewal and demand signals helps separate everyday picks from standout names.
 
-- All results use the .bond extension
-- One-word mix of literal and brandable terms
-- Median ask across this set is 34.89
-- Check word clarity, fit, and renewal risk
+- 10,672 one-word .bond domains, median ask ~$43
+- 9,559 domains priced under $500 — low-cost entry
+- 8,072 available, 2,384 premium, 216 resell listings
+- 6,519 domains rated easy to spell for brand recall
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
