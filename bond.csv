@@ -50,7 +50,7 @@ a9ffe54a-71b2-49d8-afba-8477c5f1ef10,souse.bond,available,2,25.98,low,low,5,name
 1a45bca9-06dc-49a1-8d9b-ea04b377fdef,potatocrisp.bond,available,1.88,14.95,high,low,12,namesilo,,
 d843966c-19b9-4d72-88a7-2e6fed3b0a9e,cane.bond,premium,21.83,43.66,medium,low,4,namesilo,,
 cf15a923-8f5d-49cb-8a24-a475c0494e9f,wobbly.bond,available,2.49,,medium,low,6,name.com,,
-d3b81a49-8d7b-476d-b684-a86efa3dd58e,grown.bond,available,2,25.98,low,low,5,namecheap,,
+d3b81a49-8d7b-476d-b684-a86efa3dd58e,grown.bond,available,2,25.98,medium,low,5,namecheap,,
 513d2ec5-87cd-4d6a-a230-b13958eb1505,thisinstant.bond,available,1.88,19.49,low,low,12,namesilo,,
 dcf7d854-d99f-4e86-8b31-4b89eef493a3,liked.bond,available,1.88,14.95,high,low,5,namesilo,,
 5a1257e2-f235-418c-925f-602e55663a2d,cheesy.bond,available,1.88,14.95,medium,low,6,namesilo,,
@@ -349,7 +349,7 @@ fc1f6e3d-62c7-4189-9519-ee16258d6e5d,reversible.bond,available,1.88,14.95,high,l
 cc00d361-bbaa-4336-ab6b-1ccfed6cbe58,afoot.bond,available,2,25.98,low,low,5,namecheap,,
 b691e830-c768-4a11-bbdd-a2bbb245a109,rejoin.bond,available,1.88,14.95,high,low,6,namesilo,,
 46247c2c-878b-4a73-ac88-97e3e6e1eb9e,happiness.bond,resell,,,high,low,9,Dynadot LLC,16/07/2025 04:27,16/07/2026 23:59
-17cb0406-5bae-41f9-bbd4-841f66bfca31,whitetea.bond,available,2,25.98,low,low,9,namecheap,,
+17cb0406-5bae-41f9-bbd4-841f66bfca31,whitetea.bond,available,2,25.98,medium,low,9,namecheap,,
 69bb6f70-a39b-4b41-8241-3c7f918f98f6,activation.bond,available,2,25.98,low,low,10,namecheap,,
 28663f3a-35c3-4f26-9451-95218d934a62,atthat.bond,available,1.88,19.49,high,low,7,namesilo,,
 4abf144b-3a59-45a2-a00e-ee557c83a4c2,hermitical.bond,available,2,25.98,low,low,10,namecheap,,
