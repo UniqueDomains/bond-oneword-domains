@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 ce142162-64b8-4802-a1a1-3a5ee3cfa66e,checklist.bond,premium,43.66,88.06,high,low,9,namesilo,,
-f742fe57-7972-468f-9ed0-8bf777b16bed,nourishing.bond,available,1.88,14.95,high,low,10,namesilo,,
+f742fe57-7972-468f-9ed0-8bf777b16bed,nourishing.bond,available,2,25.98,medium,low,10,namecheap,,
 629eff0c-3e41-4466-a5c8-3d5e3fe60579,continuously.bond,available,1.88,19.49,medium,low,12,namesilo,,
 97e92932-2c38-4db3-b0d4-d2bc4c814d97,televisionchannel.bond,available,1.88,14.95,high,low,18,namesilo,,
 7269ee4b-5b78-4611-b501-360a9fde2f9f,attheoutside.bond,available,1.88,19.49,medium,low,14,namesilo,,
@@ -661,7 +661,7 @@ ad419395-e0f1-48bb-8246-d3e486660bdf,givein.bond,available,1.88,19.49,high,low,7
 2f71fad0-9822-4b15-acee-7489ed605629,consultive.bond,available,2,25.98,medium,low,10,namecheap,,
 2355823a-3ee0-4856-9a91-3f15f00139ec,intheraw.bond,available,2,25.98,low,low,10,namecheap,,
 30c110de-b864-44b1-8d7c-4d119884aebf,increasing.bond,available,1.88,14.95,high,low,10,namesilo,,
-1cb621e8-ef8c-4ef9-ae1b-8291533ad44b,rain.bond,premium,21.83,43.66,high,low,4,namesilo,,
+1cb621e8-ef8c-4ef9-ae1b-8291533ad44b,rain.bond,premium,384,768,medium,low,4,namesilo,,
 d5aba217-b620-4420-92b9-e851f2fd4c3a,givesomeoneahand.bond,available,1.88,19.49,high,low,19,namesilo,,
 ce47f69b-c903-4f18-be32-c171bdeca5e8,bantering.bond,available,2,25.98,low,low,9,namecheap,,
 4e1aa680-2c1b-4a01-b48b-e92a13be7131,gold.bond,resell,,,high,medium,4,"Porkbun, LLC",15/05/2020 23:45,15/05/2027 23:59
