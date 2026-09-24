@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bond one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,209 domains · **Median ask:** $36.20 · **High-demand under $2,500:** 44
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/bond`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
-| acerb.bond | available | $2        | $25.98        | low            | low    | 5      | namecheap            |
-| bio.bond   | resell    | —         | —             | high           | medium | 3      | Dominet (HK) Limited |
-| bce.bond   | premium   | $376.96   | $753.92       | medium         | low    | 3      | namesilo             |
-| afoot.bond | available | $2        | $25.98        | low            | low    | 5      | namecheap            |
-| bot.bond   | resell    | —         | —             | high           | medium | 3      | Dominet (HK) Limited |
-| ben.bond   | premium   | $87.47    | $188.16       | high           | medium | 3      | namesilo             |
-| amuse.bond | available | $1.88     | $14.95        | high           | low    | 5      | namesilo             |
-| cut.bond   | resell    | —         | —             | high           | low    | 3      | Dominet (HK) Limited |
-| cxx.bond   | premium   | $68.43    | $147.20       | low            | low    | 3      | namesilo             |
-| arced.bond | available | $2        | $25.98        | low            | low    | 5      | namecheap            |
-| ivy.bond   | resell    | —         | —             | high           | low    | 3      | Dominet (HK) Limited |
-| dji.bond   | premium   | $376.96   | $753.92       | high           | low    | 3      | namesilo             |
-| auric.bond | available | $2        | $25.98        | low            | low    | 5      | namecheap            |
-| key.bond   | resell    | —         | —             | medium         | low    | 3      | Dominet (HK) Limited |
-| far.bond   | premium   | $376.96   | $753.92       | high           | low    | 3      | namesilo             |
-| baric.bond | available | $2        | $25.98        | low            | low    | 5      | namecheap            |
-| map.bond   | resell    | —         | —             | high           | medium | 3      | Dominet (HK) Limited |
-| fla.bond   | premium   | $376.96   | $753.92       | medium         | low    | 3      | namesilo             |
-| basal.bond | available | $2        | $25.98        | low            | low    | 5      | namecheap            |
-| opt.bond   | resell    | —         | —             | medium         | low    | 3      | Dominet (HK) Limited |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| hello.bond   | premium   | $376.96   | $753.92       | high           | high   | 5      | namesilo                                     |
+| perfect.bond | resell    | —         | —             | high           | low    | 7      | Xiamen ChinaSource Internet Service Co., Ltd |
+| most.bond    | premium   | $21.83    | $43.66        | high           | low    | 4      | namesilo                                     |
+| acerb.bond   | available | $2        | $25.98        | low            | low    | 5      | namecheap                                    |
+| bio.bond     | resell    | —         | —             | high           | medium | 3      | Dominet (HK) Limited                         |
+| bce.bond     | premium   | $376.96   | $753.92       | medium         | low    | 3      | namesilo                                     |
+| afoot.bond   | available | $2        | $25.98        | low            | low    | 5      | namecheap                                    |
+| bot.bond     | resell    | —         | —             | medium         | low    | 3      | Dominet (HK) Limited                         |
+| ben.bond     | premium   | $87.47    | $188.16       | high           | medium | 3      | namesilo                                     |
+| amuse.bond   | available | $1.88     | $14.95        | high           | low    | 5      | namesilo                                     |
+| cut.bond     | resell    | —         | —             | low            | low    | 3      | Dominet (HK) Limited                         |
+| cxx.bond     | premium   | $68.43    | $147.20       | low            | low    | 3      | namesilo                                     |
+| arced.bond   | available | $2        | $25.98        | low            | low    | 5      | namecheap                                    |
+| ivy.bond     | resell    | —         | —             | high           | low    | 3      | Dominet (HK) Limited                         |
+| dji.bond     | premium   | $376.96   | $753.92       | high           | low    | 3      | namesilo                                     |
+| auric.bond   | available | $2        | $25.98        | low            | low    | 5      | namecheap                                    |
+| key.bond     | resell    | —         | —             | medium         | low    | 3      | Dominet (HK) Limited                         |
+| far.bond     | premium   | $376.96   | $753.92       | high           | low    | 3      | namesilo                                     |
+| baric.bond   | available | $2        | $25.98        | low            | low    | 5      | namecheap                                    |
+| map.bond     | resell    | —         | —             | high           | medium | 3      | Dominet (HK) Limited                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BOND One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
