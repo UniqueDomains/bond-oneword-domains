@@ -24,6 +24,7 @@ cec6d64e-3a79-44a4-9afb-7b6efe74dac1,priests.bond,available,2.59,19.49,medium,lo
 41a694c5-3830-4054-bad3-d6e643eb174c,atrovent.bond,premium,384,768,medium,low,8,namesilo,,,21/09/2026 01:03
 a32afc87-70f3-4d76-bdfd-d9cb67242feb,plausibly.bond,available,2,25.98,high,low,9,namecheap,,,14/09/2026 09:28
 3d8b8337-f00c-4320-91be-e54dcaafb895,airlift.bond,premium,68.43,147.2,high,low,7,namesilo,,,17/09/2026 23:13
+f0adee10-33cd-47ab-95c1-89897ecffedb,pdf.bond,premium,780,1560,high,medium,3,namecheap,,,27/09/2026 06:22
 14c78a37-9815-4377-8f0b-38c45feacea0,silly.bond,premium,384,768,high,low,5,namesilo,,,21/09/2026 23:43
 990025aa-0a2f-44a2-ab87-dd49d55c7cd1,hebridean.bond,available,2,25.98,medium,low,9,namecheap,,,21/08/2026 05:45
 b235471c-33b3-4b1c-9f13-b56a95bdee8e,scramble.bond,premium,74.75,149.5,high,low,8,namecheap,,,24/09/2026 15:13
@@ -79,7 +80,7 @@ c62bc9d7-3ea3-4922-9e8b-44b70f9b9904,flag.bond,premium,384,768,high,low,4,namesi
 ad1ad8bc-8801-483c-862b-e5eaa7d3e673,birdhouse.bond,available,2.49,29.99,high,low,9,name.com,,,23/09/2026 20:39
 d2cf679d-c837-4915-8210-0825da728439,nefarious.bond,available,2,25.98,medium,low,9,namecheap,,,03/09/2026 14:57
 7d154058-cef9-4755-a0c8-6a88dbfc5061,engross.bond,available,2,25.98,high,low,7,namecheap,,,10/09/2026 19:54
-5b2201ed-b222-4550-80e1-8425bdae9472,prone.bond,available,1.88,14.95,medium,low,5,namesilo,,,
+5b2201ed-b222-4550-80e1-8425bdae9472,prone.bond,available,2,25.98,medium,low,5,namecheap,,,27/09/2026 07:37
 e0edb0c8-ce88-42fa-b0dc-f5a693e71266,epicurean.bond,available,2,25.98,high,low,9,namecheap,,,17/08/2026 10:40
 3e328580-a4cf-4f9f-8907-7c390f4350c4,rumble.bond,premium,390,780,high,low,6,namecheap,,,20/08/2026 20:36
 e4a377b2-c57a-4312-b6a1-c4bafdd03c72,bimonthly.bond,premium,192,384,high,low,9,namesilo,,,09/08/2026 22:42
@@ -327,6 +328,7 @@ f504f092-04cb-48b6-b2ff-e980512016b4,telling.bond,premium,46.61,94.8,high,low,7,
 b8803039-aacd-46a3-8c6c-ff244e909aa1,masterless.bond,available,2,25.98,medium,low,10,namecheap,,,24/08/2026 09:55
 abb00b53-279d-4977-92da-849eb0d07a40,xiv.bond,premium,192,384,high,low,3,namesilo,,,21/09/2026 11:42
 8aa549a1-c832-48ec-a80e-acb947ca1c37,aphid.bond,available,2.59,19.49,medium,low,5,namesilo,,,19/09/2026 16:56
+590c7504-b65d-40e9-9ddd-9c53286843f7,hines.bond,premium,384,768,high,low,5,namesilo,,,27/09/2026 07:58
 e2b0a742-d500-428f-be9a-722d423de68d,beholder.bond,available,2,25.98,high,low,8,namecheap,,,08/09/2026 16:20
 ef3617fa-0997-409c-9e89-239519c3be06,criminals.bond,premium,107.81,143.75,low,low,9,name.com,,,27/09/2026 03:03
 39ef7fc6-9dee-495a-9d6e-4412073ec3e2,hinterland.bond,available,2,25.98,high,low,10,namecheap,,,21/09/2026 14:33
@@ -404,6 +406,7 @@ a7946147-46f1-4542-baca-9ec752f84d1e,reclusive.bond,available,2,25.98,medium,low
 fb117218-7ec7-4220-979e-36c24fe55095,bauhinia.bond,available,2.59,19.49,medium,low,8,namesilo,,,22/09/2026 16:38
 c415d3ad-e005-4dd4-96f3-419dfd2f76a5,unripe.bond,available,2,25.98,medium,low,6,namecheap,,,12/09/2026 18:30
 c9cb1430-7409-42f0-b387-f5aa6d57224c,laotian.bond,available,2,25.98,medium,low,7,namecheap,,,22/08/2026 19:36
+60f137b7-c698-4aae-91dd-ff5220b5978a,lola.bond,premium,46.61,94.8,high,high,4,namesilo,,,27/09/2026 06:59
 b41c3086-4ad4-4e72-927a-15c64da2050d,unusually.bond,available,2,25.98,medium,low,9,namecheap,,,15/09/2026 23:04
 51e364b6-faf7-4807-8fbd-0008d1ac51fc,sour.bond,premium,11.8,23.6,high,low,4,namesilo,,,20/08/2026 15:04
 e39e5dac-6c3c-4e3c-a2dd-cbe9a657a268,aspis.bond,available,2.59,19.49,high,low,5,namesilo,,,20/09/2026 15:24
@@ -468,7 +471,7 @@ ca8f911b-eba8-482b-aafe-912ffa3a7c62,gainful.bond,premium,68.43,147.2,high,low,7
 fa5263b3-152d-46c7-969c-1d81351aa7cb,stroppy.bond,available,2,25.98,medium,low,7,namecheap,,,10/08/2026 17:59
 9e2dff6b-b244-455f-a3af-7819621f3b3a,barany.bond,available,2.59,19.49,medium,low,6,namesilo,,,22/09/2026 04:13
 a543ed1e-b6b5-4fcd-819f-bf05c193f5a9,manlike.bond,available,2,25.98,medium,low,7,namecheap,,,24/08/2026 14:48
-491b7e67-33b2-47df-a507-d98cacf6160d,pressed.bond,available,1.88,14.95,high,low,7,namesilo,,,
+491b7e67-33b2-47df-a507-d98cacf6160d,pressed.bond,premium,74.75,149.5,high,low,7,namecheap,,,27/09/2026 05:21
 06487d3c-91eb-44cb-826a-7071f3f723d3,disuse.bond,available,2.59,19.49,medium,low,6,namesilo,,,24/09/2026 23:14
 5105b5e8-a340-4d82-b66a-4e99027c5164,pyloric.bond,available,2,25.98,high,medium,7,namecheap,,,09/09/2026 06:52
 6b5fd03c-7229-4e6c-9c53-6d30b42b5674,windward.bond,available,2,25.98,high,low,8,namecheap,,,13/09/2026 12:22
@@ -511,7 +514,7 @@ ddaae23f-548f-4588-8598-3b2df73fa8c0,malian.bond,available,2,25.98,high,low,6,na
 559b3ad4-bf4d-4dc4-ba72-a28c478dc937,inwardly.bond,available,2,25.98,medium,low,8,namecheap,,,15/09/2026 09:18
 79338ba8-bc57-4dd9-aa65-5b0b0d31d248,inventive.bond,available,2,25.98,high,low,9,namecheap,,,21/08/2026 20:18
 5a34607d-dd4a-4c81-add1-94979fe32039,riemannian.bond,available,2,25.98,medium,low,10,namecheap,,,09/09/2026 17:21
-de10705b-d617-452a-a97a-8020735903a9,prochoice.bond,available,1.88,14.95,high,low,10,namesilo,,,
+de10705b-d617-452a-a97a-8020735903a9,prochoice.bond,available,2.59,19.49,high,low,10,namesilo,,,27/09/2026 06:48
 d1629abf-0450-4282-8fa8-ffe8ac4a45e1,suchlike.bond,available,2,25.98,medium,low,8,namecheap,,,11/09/2026 01:00
 74bbd71c-ee62-4857-b431-c99bbe9a293e,sculpt.bond,premium,390,780,high,low,6,namecheap,,,20/08/2026 18:43
 c6775c3f-a647-4146-89ba-d2d51c19613b,greedy.bond,premium,46.61,94.8,high,low,6,namesilo,,,07/08/2026 22:09
@@ -875,7 +878,6 @@ d15eba43-b329-494a-8255-8c6b92f173b3,rampantly.bond,available,2,25.98,medium,low
 436600ca-7ddc-4737-b40c-56f0d700c4ad,titanic.bond,premium,68.43,147.2,high,low,7,namesilo,,,11/09/2026 16:30
 36f803b7-3b2c-473d-8bb0-3e8c3d551eec,jumbo.bond,premium,384,768,high,low,5,namesilo,,,16/08/2026 03:34
 a229fd73-3943-4616-9ff2-30288bcff34b,informal.bond,premium,74.75,149.5,high,low,8,namecheap,,,25/09/2026 09:31
-f995cb78-3312-4fb2-b2ad-1d501d3493f0,jesus.bond,premium,188.16,376.32,high,medium,5,namesilo,,,
 1c6980d2-0369-4915-9f5b-355d1f52b08c,cashed.bond,premium,390,780,high,low,6,namecheap,,,11/08/2026 20:15
 31faae6e-e4e4-4119-881f-01729adecbea,observations.bond,available,2,25.98,medium,low,12,namecheap,,,17/09/2026 08:04
 ceeccc72-328b-466a-9fe8-550a09496f1d,gooney.bond,available,2.59,19.49,medium,low,6,namesilo,,,23/09/2026 23:44
@@ -909,6 +911,7 @@ cbd0d3b5-76a8-4700-a37a-a68be0ad0fe9,unrelated.bond,available,2,25.98,medium,low
 fed7d788-9f5a-43f9-b2e1-86426b911a66,amalgamate.bond,available,2.59,19.49,high,low,10,namesilo,,,22/09/2026 03:01
 ac6b4340-0c3d-4bab-a1d1-9e6ea82b2cf2,quits.bond,available,2,25.98,high,low,5,namecheap,,,09/09/2026 09:02
 3e9cad63-5748-49a6-bfaa-22928a359e70,sloth.bond,available,1.88,14.95,high,low,5,namesilo,,,
+0345af0c-c665-4bf0-b358-07be295e7cdc,react.bond,premium,384,768,high,low,5,namesilo,,,27/09/2026 06:05
 83236fa5-10db-4cbc-975b-e88870ed5f67,previous.bond,available,1.88,14.95,high,low,8,namesilo,,,
 3430f8f2-d662-4c9f-b040-497e6545b225,tease.bond,premium,384,768,high,low,5,namesilo,,,11/09/2026 09:59
 8cab913b-aeaa-4449-b3f6-0e1ce1cecd86,einstein.bond,premium,376.96,753.92,high,low,8,namesilo,,,
@@ -996,6 +999,3 @@ eb25ce09-5a23-43dd-a8f0-280468885a2f,areopagus.bond,available,2.59,19.49,medium,
 2739eb9b-bf8c-4edd-9297-84ef4079e830,reportable.bond,available,2,25.98,medium,low,10,namecheap,,,09/09/2026 14:36
 17bcac47-972c-4845-92b8-e6698767906b,radon.bond,premium,46.61,94.8,high,low,5,namesilo,,,21/09/2026 00:00
 8e205049-a4fd-4e2b-b679-a70c1190e971,homebody.bond,premium,74.75,149.5,medium,low,8,namecheap,,,10/09/2026 19:28
-6dd2efcf-6174-43e0-8574-f929087567e2,unshod.bond,available,2,25.98,medium,low,6,namecheap,,,14/08/2026 09:48
-a9744c43-8114-461e-9acd-06b4c0914c0e,professor.bond,premium,43.66,88.06,high,low,9,namesilo,,,
-43016576-b2a8-4720-858a-b204161895d2,reveals.bond,premium,68.43,147.2,medium,low,7,namesilo,,,20/09/2026 06:30
